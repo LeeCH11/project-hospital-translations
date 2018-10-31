@@ -6,6 +6,7 @@
 
         <Contributors>
             <Name>Kimbel_Byungseok</Name>
+            <Name>LeeCH</Name>
         </Contributors>
         
     	<LocalizedStrings>
@@ -52,7 +53,7 @@
             <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM</LocID>            <Text>빠른 신진대사</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_FAST_METABOLISM_DESCRIPTION</LocID><Text>더 빨리 배고픕니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET</LocID>                 <Text>더러운 발</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET_DESCRIPTION</LocID>     <Text>신발이 매우 더럽군요 타일이 더러워 집니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>PERK_DIRTY_FEET_DESCRIPTION</LocID>     <Text>신발이 매우 더럽군요. 타일이 더러워 질 것입니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES</LocID>        <Text>실전 진단</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_PRACTICAL_DIAGNOSES_DESCRIPTION</LocID><Text>최종 진단에 성공하면 진단 스킬에 20% 경험치 보너스를 받습니다.</Text></GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERK_RESTZISTANCE</LocID>               <Text>Restzistance</Text>  </GameDBLocalizedString>
@@ -185,8 +186,8 @@
             <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_NONE</LocID>            <Text>불편함 없음</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DISC_DISCOMFORT_UNKNOWN</LocID>         <Text>불명</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>GENDER_MALE</LocID>                     <Text>남자</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>GENDER_FEMALE</LocID>                   <Text>여자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GENDER_MALE</LocID>                     <Text>남성</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>GENDER_FEMALE</LocID>                   <Text>여성</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>HAZARD_UNKNOWN</LocID>                  <Text>알 수 없는 위험 요소</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HAZARD_NONE</LocID>                     <Text>위험 요소 없음</Text>  </GameDBLocalizedString>
@@ -205,9 +206,9 @@
             <GameDBLocalizedString>      <LocID>HOSPITALIZING</LocID>                   <Text>입원 하는 중</Text>  </GameDBLocalizedString>
             
             <!-- Daily schedule -->
-            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_STAFF</LocID>                <Text>주간 근무</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_STAFF_NIGHT</LocID>          <Text>야간 근무</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_PATIENTS</LocID>             <Text>병원 개방</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_STAFF</LocID>                <Text>주간 근무자들</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_STAFF_NIGHT</LocID>          <Text>야간 근무자들</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SCHEDULE_OPENING_HOURS_PATIENTS</LocID>             <Text>주간 환자들</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_HOSPITALIZED_PATIENTS_LUNCH</LocID>        <Text>환자 점심 식사</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_STAFF_LUNCH</LocID>                        <Text>직원 점심 식사</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_DOCTORS_ROUNDS</LocID>                     <Text>의사 회진</Text>  </GameDBLocalizedString>
@@ -220,7 +221,7 @@
             <GameDBLocalizedString>      <LocID>STABILIZATION_TEXT</LocID>                          <Text>안정</Text>  </GameDBLocalizedString>
 
             <!-- Patient states -->
-            <GameDBLocalizedString>      <LocID>Spawned</LocID>                                     <Text>나타</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>Spawned</LocID>                                     <Text>소환됨</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>Idle</LocID>                                        <Text>할 일 없음</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToReception</LocID>                            <Text>접수처로 가는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToReceptionist</LocID>                         <Text>접수원에게 가는 중</Text>  </GameDBLocalizedString>
@@ -231,9 +232,9 @@
             <GameDBLocalizedString>      <LocID>Wandering</LocID>                                   <Text>방황 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToWaitingRoom</LocID>                          <Text>대기실로 가는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WaitingGoingToChair</LocID>                         <Text>의자로 가는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WaitingSitting</LocID>                              <Text>대기중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WaitingSitting</LocID>                              <Text>앉아서 대기 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WaitingStandingIdle</LocID>                         <Text>대기중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WaitingBeingCalled</LocID>                          <Text>부름 받음</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WaitingBeingCalled</LocID>                          <Text>불려짐</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>FulfillingNeeds</LocID>                             <Text>욕구 충족하는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>GoingToDoctor</LocID>                               <Text>의사에게 가는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>BeingExamined</LocID>                               <Text>검사 받음</Text>  </GameDBLocalizedString>
@@ -278,8 +279,8 @@
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedFromExamination</LocID><Text>검사 받고 이송 됨</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_BeingTransportedBackToRoom</LocID>     <Text>방으로 이송 됨</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_GoingToCollapse</LocID>                <Text>의식 불명</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Collapsing</LocID>                     <Text>의식 불명</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HOSPITALIZED_CollapsingInBed</LocID>                <Text>의식 불명</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_Collapsing</LocID>                     <Text>의식 잃는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HOSPITALIZED_CollapsingInBed</LocID>                <Text>침대에서 의식 잃는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_FindNewBed</LocID>                     <Text>침대 자리 기다리는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForBed</LocID>                  <Text>침대 자리 기다리는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>HOSPITALIZED_WaitingForStabilization</LocID>        <Text>안정 되길 기다리는 중</Text>  </GameDBLocalizedString>
@@ -294,17 +295,17 @@
 
             <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_EXM_TRT</LocID>          <Text>진단 / 관찰</Text>  </GameDBLocalizedString>
             <!-- UPDATED --> <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY</LocID>          <Text>수술 / 트라우마</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ASSIST</LocID>                    <Text>수술 보조하기</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ASSIST</LocID>                    <Text>수술 보조</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_ANESTHESIOLOGY</LocID>            <Text>수술 마취 담당하기</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_CARE</LocID>                      <Text>환자 돌보기</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>EMPL_ROLE_PATIENT_TRANSFERS</LocID>                 <Text>환자 이송하기</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_NURSE</LocID>                     <Text>간호사 - 수술</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_SURGERY_NURSE</LocID>                     <Text>수술 간호사</Text>  </GameDBLocalizedString>
             <!-- UPDATED 2018_11_26--> <GameDBLocalizedString>      <LocID>EMPL_ROLE_LAB</LocID>    <Text>진료소 환자</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>EMPL_ROLE_CLEANING</LocID>                          <Text>청소</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>EMPL_ROLE_CLEANING</LocID>                          <Text>청소 중</Text>  </GameDBLocalizedString>
 
             <!-- Doctor states -->
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_Idle</LocID>                           <Text>할 일 없음</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FinishedProcedure</LocID>              <Text>할 일 없음</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FinishedProcedure</LocID>              <Text>절차 끝냄</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_GoingToWorkPlace</LocID>               <Text>자리로 가는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FulfilingNeeds</LocID>                 <Text>욕구 해결하는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DOCTOR_STATE_FilingReports</LocID>                  <Text>보고서 작성 중</Text>  </GameDBLocalizedString>
@@ -328,24 +329,24 @@
             <GameDBLocalizedString>      <LocID>NURSE_STATE_FulfillingNeeds</LocID>                 <Text>욕구 해결하는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_FillingFreeTime</LocID>                 <Text>여가 시간 갖는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenByProcedureScript</LocID>      <Text>치료 절차 수행 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenGoingToStretcher</LocID>       <Text>스트레처 가지러 가는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenMovingStretcher</LocID>        <Text>스트레처 이동하는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenReturningStretcher</LocID>     <Text>스트레처 되돌려 놓는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenGoingToStretcher</LocID>       <Text>들것 가지러 가는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenMovingStretcher</LocID>        <Text>들것 이동하는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenReturningStretcher</LocID>     <Text>들것 되돌려 놓는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_OverridenReservedForProcedure</LocID>   <Text>치료 절차 예약함</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_GoingHome</LocID>                       <Text>집에 가는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_AtHome</LocID>                          <Text>집에 있음</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NURSE_STATE_Commuting</LocID>                       <Text>통근 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>NURSE_STATE_FiredAtHome</LocID>                     <Text>해고 </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>NURSE_STATE_FiredAtHome</LocID>                     <Text>해고</Text>  </GameDBLocalizedString>
 
             <!-- Janitor states -->
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_AtHome</LocID>                        <Text>집에 있음</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_FiredAtHome</LocID>                   <Text>해고 됨</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingHome</LocID>                     <Text>집에 가는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingToWorkplace</LocID>              <Text>자리로 가는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Walking</LocID>                       <Text>청소 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCart</LocID>                 <Text>청소 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCartToNextRoom</LocID>       <Text>청소 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToNextRoom</LocID>             <Text>청소 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_Walking</LocID>                       <Text>걷는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCart</LocID>                 <Text>카트로 가는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToCartToNextRoom</LocID>       <Text>옆방의 카트로 가는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>JANITOR_STATE_WalkingToNextRoom</LocID>             <Text>옆방으로 가는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_FulfillingNeeds</LocID>               <Text>욕구 해결하는 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_Cleaning</LocID>                      <Text>청소 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>JANITOR_STATE_GoingToReturnCart</LocID>             <Text>카트 되돌려 놓는 중</Text>  </GameDBLocalizedString>
@@ -362,22 +363,22 @@
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_Commuting</LocID>                <Text>통근 중</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_FiredAtHome</LocID>              <Text>해고 됨</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_OverridenReservedForProcedure</LocID><Text>치료 절차 예약함</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSample</LocID>           <Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSampleFromHospitalizedPatient</LocID><Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_TakingSample</LocID>             <Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ProcessingSampleFromPatient</LocID><Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToStoreSampleFromPatient</LocID><Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoringSampleFromPatient</LocID> <Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_SampleFromPatientStored</LocID>  <Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ReturningWithSample</LocID>      <Text>샘플 다루는 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StartWritingNotes</LocID>        <Text>검사 결과 처리중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StopWritingNotes</LocID>         <Text>검사 결과 처리중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToEquipment</LocID>         <Text>샘플 시험 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_UsingEquipment</LocID>           <Text>샘플 시험 중</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoppedUsingEquipment</LocID>    <Text>샘플 시험 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSample</LocID>           <Text>표본을 가지러 가는중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingForSampleFromHospitalizedPatient</LocID><Text>입원 환자 표본을 가지러 가는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_TakingSample</LocID>             <Text>표본 채취 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ProcessingSampleFromPatient</LocID><Text>환자 표본을 다루는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToStoreSampleFromPatient</LocID><Text>환자 표본을 보관 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoringSampleFromPatient</LocID> <Text>표본 보관중 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_SampleFromPatientStored</LocID>  <Text>환자 표본 보관 됨</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_ReturningWithSample</LocID>      <Text>표본과 돌아가는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StartWritingNotes</LocID>        <Text>검사 결과 작성 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StopWritingNotes</LocID>         <Text>검사 결과 작성 중지</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_GoingToEquipment</LocID>         <Text>기구로 가는 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_UsingEquipment</LocID>           <Text>기구 사용 중</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TECHNOLOGIST_STATE_StoppedUsingEquipment</LocID>    <Text>기구 사용 중지</Text>  </GameDBLocalizedString>
 
             <!-- ============= NEW, NEED TRANSLATING ================== -->
-            <GameDBLocalizedString>      <LocID>HAZARD_POSITIVE</LocID>                             <Text>포지티브</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HAZARD_POSITIVE</LocID>                             <Text>위험 요소 양성</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SAT_HAD_COFFEE</LocID>                              <Text>커피 마심</Text>  </GameDBLocalizedString>
             <!-- UPDATED 2018_11_26--> <GameDBLocalizedString>      <LocID>EMPL_ROLE_LAB_FOR_HOSPITALIZED</LocID>              <Text>입원 환자</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SCHEDULE_HOSPITALIZED_PATIENTS_BREAKFAST</LocID>    <Text>환자 아침 식사</Text>  </GameDBLocalizedString>
