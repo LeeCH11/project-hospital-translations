@@ -13,18 +13,18 @@
             <!-- ============================ -->
             <!-- Diagnoses - Emergency -->
             <!-- ============================ -->
-            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Pork tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Pork tapeworms (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Beef tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Beef tapeworms (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Chickenpox</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Chickenpox, also known as varicella, is a highly contagious disease caused by the initial infection with Varicella zoster virus. The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Shingles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>Shingles is an infection caused by a reactivation of varicella-zoster virus. The disease results in a red skin rash that forms small blisters in a wide stripe following the course of a dermatome. Shingles can be extremely painful.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>Nail fungus</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>Nail fungus, also called Onychomycosis or Tinea unguium, is a fungal infection that affects fingers or toenails.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>Athlete’s foot</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>Athlete’s foot, also called Tinea pedis, is a highly contagious skin infection of the feet caused by fungi.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>갈고리촌충</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>갈고리촌충은 사람의 내장에 기생하는 촌충과의 기생충을 말합니다. 중간 숙주는 돼지이며, 그들이 인간의 배설물에 감염된 사료나 물을 섭취 시 감염됩니다. 덜 익힌 돼지고기를 먹으면 감염될 수 있습니다.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>민촌충</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>민촌충은 사람의 내장에 기생하는 촌충과 기생충을 말합니다. 중간 숙주는 소이며, 그들은 인간의 배설물에 감염된 사료나 물을 섭취 시 감염됩니다. 덜 익힌 소고기를 먹으면 감염될 수 있습니다.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>수두</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>수두, 또는 Varicella로 알려져 있습니다. 높은 전염성을 가진 접촉 전염병이며, 수두-대상포진 바이러스에 의해 야기됩니다. 빨간 물집과 가려움증 등의 증상이 있습니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>대상 포진</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>대상 포진은 수두-대상 포진 바이러스에 의해 발병됩니다. 수포를 동반한 아픈 발진이 몸의 한쪽에 나타납니다. 대상 포진은 굉장히 고통스러울 수 있습니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>손 및 발톱 무좀</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>손 및 발톱 무좀은 조백선 또는 조갑백선이라고도 알려져 있습니다. 이것은 손톱 또는 발톱에 곰팡이가 침투했을 때 발병합니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>무좀</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>무좀, 또는 발 백선이라고도 알려진, 이것은 곰팡이에 의해 발병하고, 높은 감염률을 가진 피부병입니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IDA</LocID>                         <Text>Iron-deficiency anemia</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_IDA_DESCRIPTION</LocID>             <Text>Anemia is defined as a reduced ability of the blood to carry oxygen. This can be caused by a decrease in red blood cells or hemoglobin. Iron-deficiency anemia is the most common form of anemia.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>Lactose intolerance</Text>  </GameDBLocalizedString>
