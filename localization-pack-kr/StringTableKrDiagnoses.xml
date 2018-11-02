@@ -6,6 +6,7 @@
 
         <Contributors>
             <Name>Kimbel_Byungseok</Name>
+            <Name>LeeCH</Name>
         </Contributors>
 
         <LocalizedStrings>
@@ -25,40 +26,40 @@
             <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>손 및 발톱 무좀은 조백선 또는 조갑백선이라고도 알려져 있습니다. 이것은 손톱 또는 발톱에 곰팡이가 침투했을 때 발병합니다.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>무좀</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>무좀, 또는 발 백선이라고도 알려진, 이것은 곰팡이에 의해 발병하고, 높은 감염률을 가진 피부병입니다.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IDA</LocID>                         <Text>Iron-deficiency anemia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_IDA_DESCRIPTION</LocID>             <Text>Anemia is defined as a reduced ability of the blood to carry oxygen. This can be caused by a decrease in red blood cells or hemoglobin. Iron-deficiency anemia is the most common form of anemia.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>Lactose intolerance</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LIN_DESCRIPTION</LocID>             <Text>Lactose intolerance is the inability to digest lactose, a sugar found in milk products. Undigested lactose can result in bloating, diarrhea, gas or abdominal pain.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CLD</LocID>                         <Text>Common cold</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CLD_DESCRIPTION</LocID>             <Text>The common cold is a viral infection located to the upper respiratory system, usually the nose or throat.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ASN</LocID>                         <Text>Sinusitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ASN_DESCRIPTION</LocID>             <Text>Sinusitis refers to inflammation of one or more sinuses. Sinusitis causes swelling and can compromise drainage of mucus or pus from the involved sinus cavity.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_APH</LocID>                         <Text>Pharyngitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_APH_DESCRIPTION</LocID>             <Text>Pharyngitis refers to inflammation of the throat and can be caused by bacteria or virus.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANG</LocID>                         <Text>Bacterial tonsillitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANG_DESCRIPTION</LocID>             <Text>Bacterial tonsillitis is an infection of the tonsils. The most common bacterial tonsillitis is caused by Streptococcus pyogenes, and is known as 'strep throat'.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANV</LocID>                         <Text>Viral tonsillitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ANV_DESCRIPTION</LocID>             <Text>Viral tonsillitis is an infection of the tonsils and can be caused by several viral agents.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LAR</LocID>                         <Text>Laryngitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>Laryngitis refers to inflammation of the voice box. It can be caused by bacteria or virus, but also because of excessive voice use.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INF</LocID>                         <Text>Influenza</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>Influenza, commonly known as 'the flu', is a common infectious disease caused by the influenza virus family.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>Bronchitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>Bronchitis is an inflammation of the lower airways called bronchi and is usually caused by virus.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>Hay fever</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>Hay fever, medically known as allergic rhinitis, is an inflammation in the nose caused by an allergic reaction to an allergen in the air, such as pollen. </Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ACD</LocID>                         <Text>Contact dermatitis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ACD_DESCRIPTION</LocID>             <Text>Contact dermatitis is a localized rash or irritation of the skin caused by contact to an allergen or irritant.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GEW</LocID>                         <Text>Golfer's elbow</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_GEW_DESCRIPTION</LocID>             <Text>Golfer's elbow, also known as medial epicondylitis, is characterized by radiating pain from the inside of the elbow to the wrist. The condition is caused by performing repetitive movements resulting in irritation of the muscles and tendons responsible for said movements.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SCS</LocID>                         <Text>Scoliosis</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_SCS_DESCRIPTION</LocID>             <Text>Scoliosis is a sideway curvature of the spine usually in a C or S shape. Scoliosis is usually painless.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RYS</LocID>                         <Text>Raynaud's syndrome</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_RYS_DESCRIPTION</LocID>             <Text>Raynaud's syndrome causes numbness and coldness of hands, fingers and toes as response to cold outdoor temperatures.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CFS</LocID>                         <Text>Chronic fatigue syndrome</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CFS_DESCRIPTION</LocID>             <Text>Chronic fatigue syndrome is very complicated disease that refers to a condition of fatigue that can not be explained by any underlying medical condition.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INS</LocID>                         <Text>Insomnia</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_INS_DESCRIPTION</LocID>             <Text>Insomnia is defined as a subjective experience of bad sleep. This can be due to the inability to fall asleep, sleep continuously throughout the night or waking up too early.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IDA</LocID>                         <Text>철겹필성 빈혈</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_IDA_DESCRIPTION</LocID>             <Text>빈혈은 피의 산소 운반 능력을 저하한다고 알려져 있습니다. 핏속의 적혈구나 헤모글로빈의 감소 현상으로 주로 발생합니다. 이 철겹핍성 빈혈은 빈혈의 유형 중 가장 흔하게 볼 수 있습니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LIN</LocID>                         <Text>유당분해효소 결핍증</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LIN_DESCRIPTION</LocID>             <Text>유당분해효소 결핍증은 유제품에서 찾을 수 있는 당 성분인 유당을 소화할 수 없다고 알려져 있습니다. 소화되지 못한 유당은 복부팽창, 설사, 가스가 차거나, 복통을 일으킬 수 있습니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLD</LocID>                         <Text>일반 감기(급성 비인두염)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CLD_DESCRIPTION</LocID>             <Text>일반 감기(급성 비인두염)은 보통 코나 목과 같은 상부 호흡기관에 존재하는 바이러스입니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASN</LocID>                         <Text>축농증(부비강염)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ASN_DESCRIPTION</LocID>             <Text>축농증은 부비강에 생기는 하나 또는 그 이상의 염증을 말합니다. 축농증은 종창을 일으키고, 옅은 녹색이나 노란색의 농성비루 증상이 초래됩니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APH</LocID>                         <Text>인후염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_APH_DESCRIPTION</LocID>             <Text>인후염은 목에 생기는 염증을 말하며, 주로 박테리아나 바이러스에 의해 발병됩니다. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANG</LocID>                         <Text>세균성 편도선염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANG_DESCRIPTION</LocID>             <Text>세균성 편도선염은 편도선에 발생하는 염증을 말합니다. 가장 흔하게 '폐혈성 인두염'으로 알려진, '화농 연쇄상구균'에 의해 발병됩니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANV</LocID>                         <Text>바이러스성 편도선염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ANV_DESCRIPTION</LocID>             <Text>바이러스성 편도선염은 여러 바이러스에 의해 편도선에 염증이 생기는 것을 말합니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LAR</LocID>                         <Text>후두염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_LAR_DESCRIPTION</LocID>             <Text>후두염은 후두에 생기는 염증을 말합니다. 이것은 박테리아나 바이러스에 의해 발병될 수 있으나, 지나친 목소리 사용으로도 발병될 수 있습니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF</LocID>                         <Text>인플루엔자</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INF_DESCRIPTION</LocID>             <Text>인플루엔자, '유행성 감기'로 더 잘 알려진 바이러스입니다. 이것은 인플루엔자 바이러스 계에 의해 생기는 흔한 감염성 질병입니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN</LocID>                         <Text>기관지염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_BRN_DESCRIPTION</LocID>             <Text>기관지염은 바이러스에 의해 기관지라고 불리는 하부 호흡기에 발생하는 염증을 말합니다. </Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV</LocID>                         <Text>고초열(건초열)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HFV_DESCRIPTION</LocID>             <Text>의학적으로 알레르기성 비염으로 알려진 고초열은 꽃가루와 같은 공기에 존재하는 알레르겐이 일으키는 알레르기 반응으로 발생하는 코의 염증을 말합니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACD</LocID>                         <Text>접촉 피부염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ACD_DESCRIPTION</LocID>             <Text>접촉 피부염은 알레르겐이나 자극물에 의해 발생하는 국부적인 발진 또는 피부 과민 반응을 말합니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GEW</LocID>                         <Text>골프 엘보</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_GEW_DESCRIPTION</LocID>             <Text>내측상과염으로 알려진 골프 엘보는 팔꿈치 안쪽에서 손목으로 통증을 유발하는 특징이 있습니다. 이 상태는 반복적인 움직임을 수행하여 상기 움직임을 담당하는 근육 및 힘줄에 자극을 유발합니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCS</LocID>                         <Text>척추측만증</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_SCS_DESCRIPTION</LocID>             <Text>척추측만증은 일반적으로 C 또는 S 모양으로 휘어진 척주입니다. 척추 측만증은 보통 통증을 동반하지 않습니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RYS</LocID>                         <Text>레이노 증후군</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_RYS_DESCRIPTION</LocID>             <Text>추위나 심리적 변화로 인해 손가락이나 발가락 혈관에 허혈 발작이 생기고 피부 색조가 변하는 질환입니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFS</LocID>                         <Text>만성 피로 증후군</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CFS_DESCRIPTION</LocID>             <Text>만성 피로 증후군은 의학적으로 설명하기 힘든, 매우 복합적인 질환으로써, 심각한 피로감이 주된 증상입니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INS</LocID>                         <Text>불면증</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_INS_DESCRIPTION</LocID>             <Text>불면증은 좋지 않은 수면의 주관적 경험으로 정의됩니다. 이 증세는 잠에 들지 못하거나, 너무 이른 아침에 일어나기 때문에 발생할 수 있습니다.</Text>  </GameDBLocalizedString>
 
             <GameDBLocalizedString>      <LocID>TRM_ACT</LocID>                         <Text>Arm contusion</Text>   </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>Arm contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
