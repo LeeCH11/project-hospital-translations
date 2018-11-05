@@ -61,28 +61,28 @@
             <GameDBLocalizedString>      <LocID>DIA_INS</LocID>                         <Text>불면증</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_INS_DESCRIPTION</LocID>             <Text>불면증은 좋지 않은 수면의 주관적 경험으로 정의됩니다. 이 증세는 잠에 들지 못하거나, 너무 이른 아침에 일어나기 때문에 발생할 수 있습니다.</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TRM_ACT</LocID>                         <Text>Arm contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>Arm contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_HCT</LocID>                         <Text>Hand contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_HCT_DESCRIPTION</LocID>             <Text>Hand contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FCT</LocID>                         <Text>Foot contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_FCT_DESCRIPTION</LocID>             <Text>Foot contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACN</LocID>                         <Text>Ankle contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_ACN_DESCRIPTION</LocID>             <Text>Ankle contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LCT</LocID>                         <Text>Leg contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_LCT_DESCRIPTION</LocID>             <Text>Leg contusion refer to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CCT</LocID>                         <Text>Chest contusion</Text>   </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TRM_CCT_DESCRIPTION</LocID>             <Text>Chest contusion refers to a contusion of soft tissues, without presence of fractured bone or major damage to skin or muscles.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACT</LocID>                         <Text>팔 좌상</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACT_DESCRIPTION</LocID>             <Text>팔 좌상은 골절 또는 피부나 근육의 손상이 연 조직의 좌상을 말합니다.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_HCT</LocID>                         <Text>손 좌상</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_HCT_DESCRIPTION</LocID>             <Text>손 좌상은 골절 또는 피부나 근육의 손상이 아닌 연 조직의 좌상을 말합니다.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FCT</LocID>                         <Text>발 좌상</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_FCT_DESCRIPTION</LocID>             <Text>발 좌상은 골절 또는 피부나 근육의 손상이 아닌 연 조직의 좌상을 말합니다.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACN</LocID>                         <Text>발목 좌상</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_ACN_DESCRIPTION</LocID>             <Text>발목 좌상은 골절 또는 피부나 근육의 손상이 아닌 연 조직의 좌상을 말합니다.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LCT</LocID>                         <Text>다리 좌상</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_LCT_DESCRIPTION</LocID>             <Text>다리 좌상은 골절 또는 피부나 근육의 손상이 아닌 연 조직의 좌상을 말합니다.</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCT</LocID>                         <Text>가슴 좌상</Text>   </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TRM_CCT_DESCRIPTION</LocID>             <Text>가슴 좌상은 골절 또는 피부나 근육의 손상이 아닌 연 조직의 좌상을 말합니다.</Text>   </GameDBLocalizedString>
 
             <!-- ============================ -->
             <!-- Diagnoses - General surgery department-->
             <!-- ============================ -->
 
-            <GameDBLocalizedString>      <LocID>DIA_HEPA</LocID>                        <Text>Hepatitis A</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HEPA_DESCRIPTION</LocID>            <Text>Hepatitis refers to a viral infection of the liver. Hepatitis A virus spreads through feces and usually occurs in areas with poor sanitation or hygiene.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HEPB</LocID>                        <Text>Hepatitis B</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HEPB_DESCRIPTION</LocID>            <Text>Hepatitis refers to a viral infection of the liver. Hepatitis B virus spreads via blood, sexual contact or from mother to child.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_EPI</LocID>                         <Text>Exocrine pancreatic insufficiency</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPA</LocID>                        <Text>A형 간염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPA_DESCRIPTION</LocID>            <Text>A형 간염은 간의 바이러스 감염을 말합니다. A형 간염은 배설물로 퍼지며, 위생시설이나 위생이 좋지 않은 곳에서 주로 발생합니다.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPB</LocID>                        <Text>B형 간염</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HEPB_DESCRIPTION</LocID>            <Text>B형 간염은 간의 바이러스 감염을 말합니다. B형 간염은 피, 성접촉 또는 모친에게서 자식에게 퍼집니다.Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_EPI</LocID>                         <Text>외분비성 췌장기능부전증</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_EPI_DESCRIPTION</LocID>             <Text>Pancreatic insufficiency occurs when the gland is damaged enough to seize functioning sufficiently. Normal absorption of nutrients in the small intestine is thus compromised resulting in nutritional deficiencies.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_THD</LocID>                         <Text>Hashimoto's thyroiditis</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_THD_DESCRIPTION</LocID>             <Text>Hashimoto's thyroiditis is an autoimmune disease where the immune system gradually destroys the thyroid gland.</Text>  </GameDBLocalizedString>
